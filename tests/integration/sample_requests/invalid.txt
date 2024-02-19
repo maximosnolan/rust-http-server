@@ -1,0 +1,7 @@
+gjrienginafgibvnaefngnrehn gnreingeirnga gnirengaeirng ngiren giqen
+greqgrqng 
+greqg ng g io
+greg 
+gjerigjijg 
+
+c++ std optional reinterpret_cast const auto it = []() -> void { return []() -> void { return;}; };
